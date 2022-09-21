@@ -8,3 +8,4 @@ Using the MediaPipe package, we can easily get the hand landmarks and the hand g
 
 Using the cv2 package, we can get the video from the camera. Then we can use the MediaPipe to get the hand landmarks and the hand gesture. Finally, we can use the hand landmarks to draw the hand on the video.
 
+![Hand_Tracker](https://github.com/holycabbage/Hand-tracker/blob/main/Kapture%202022-09-21%20at%2022.55.04.gif)
